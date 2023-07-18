@@ -1,0 +1,363 @@
+<html>
+  <head>
+    <title>Hengkai's Home Page</title>
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <style type="text/css">
+      body {
+        margin: auto;
+        padding: auto;
+        width: 1024px;
+
+        color: #2E3436;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.4em;
+      }
+
+      .collapsible {
+        cursor: pointer;
+      }
+
+      .collapsible:hover {
+        background-color: #f1f1f1;
+      }
+
+      .collapsible:hover::after {
+        font-weight: bold;
+        float: right;
+        content: '\2913';
+      }
+
+      .active::after {
+        font-weight: bold;
+        float: right;
+        content: "\2912";
+      }
+
+      .active:hover::after {
+        font-weight: bold;
+        float: right;
+        content: "\2912";
+      }
+
+      .content {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+      }
+
+      pre {
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 4px;
+        border-color: lightgrey;
+        padding: 5px 5px 5px 5px;
+        overflow: auto;
+        background-color: #f1f1f1
+      } 
+
+      .pub-title {
+        font-size: medium;
+        font-weight: bold;
+        float:left;
+      }
+      .pub-links {
+        font-weight: bold;
+        float:right;
+      }
+      .pub-conf {
+        font-size: medium;
+        font-style: italic;
+      }
+      .pub-author {
+        font-size: medium;
+      }
+
+      img { vertical-align: bottom; }
+  
+      a {  color: #008cba; text-decoration: none; }
+
+      li { margin-bottom: 15px; }
+    </style> 
+  </head>
+
+  <body bgcolor="#ffffff">
+    <table border="0">
+      <tbody>
+      <tr height="5"></tr>
+      <tr>
+        <td>
+          <img align="middle" border="0" src="images/photo.jpg" width="220" class="imgborder">
+        </td>
+        <td width="30">
+          <br>
+        </td>
+        <td align="left">
+          <p> <h2> Hengkai Ye </h2></p>
+          Ph.D. Candidate<br>
+          College of Information Sciences and Technology<br>
+          The Pennsylvania State University<br><br>
+          E-mail: hfy5130 at psu dot edu<br>
+          <!--
+          <br>
+          <a href=cv/cv.pdf.html>CV</a>
+          ---
+          <a href=https://scholar.google.com/citations?user=3aaJwkoAAAAJ&hl=en>Google Scholar</a>
+          ---
+          <a href="https://twitter.com/huhong789?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Twitter</a>
+          <br>
+          -->
+        </td>
+      </tr></tbody>
+    </table>
+  
+    <hr>
+    <strong>Short Bio:</strong>
+    I am a second-year Ph.D. candidate at <a href="https://www.psu.edu/">Penn State University</a>, advised by <a href="https://huhong789.github.io/">Prof. Hong Hu</a>. 
+    Before joining Penn State University, I obtained my Bachelor's degree from Huazhong University of Science and Technology and Master's degree from Purdue University. 
+    My research interests include Software and System Security.
+    <br><br>
+
+    <hr>
+    <h2>Publications</h2>
+    <ol reversed>
+
+    </div>
+    <li class=collapsible>
+      <span class=pub-title>
+        VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks
+      </span>
+      <!--
+      <span class=pub-links>
+        <a href="papers/dong:browser-isolation.pdf.html"><img alt="Paper" src="images/file.svg" height=15px></a>
+      </span>
+      -->
+      <br>
+      <span class=pub-author>
+        <b>Hengkai Ye</b>, Song Liu, Zhechang Zhang and Hong Hu
+      </span>
+      <br>
+      In <span class=pub-conf>
+        Proceedings of the 32nd USENIX Security Symposium (Security'23) 
+      </span>
+    </li>
+    <div class=content>
+      As control-flow protection techniques are widely deployed,
+      it is difficult for attackers to modify control data, like function
+      pointers, to hijack program control flow. Instead, data-only attacks corrupt security-critical non-control data (critical data),
+      and can bypass all control-flow protections to revive severe attacks. Previous works have explored various methods to help
+      construct or prevent data-only attacks. However, no solution
+      can automatically detect program-specific critical data.
+      In this paper, we identify an important category of critical
+      data, syscall-guard variables, and propose a set of solutions
+      to automatically detect such variables in a scalable manner.
+      Syscall-guard variables determine to invoke security-related
+      system calls (syscalls), and altering them will allow attackers
+      to request extra privileges from the operating system. We
+      propose branch force, which intentionally flips every conditional branch during the execution and checks whether new
+      security-related syscalls are invoked. If so, we conduct dataflow analysis to estimate the feasibility to flip such branches
+      through common memory errors. We build a tool, VIPER, to
+      implement our ideas. VIPER successfully detects 34 previously unknown syscall-guard variables from 13 programs.
+      We build four new data-only attacks on sqlite and v8, which
+      execute arbitrary command or delete arbitrary file. VIPER
+      completes its analysis within five minutes for most programs,
+      showing its practicality for spotting syscall-guard variables
+      <br/>
+      <p></p>
+    </div>
+
+      </div>
+      <li class=collapsible>
+        <span class=pub-title>
+          BET: Black-box Efficient Testing for Convolutional Neural Networks
+        </span>
+        <!--
+        <span class=pub-links>
+          <a href="papers/dong:browser-isolation.pdf.html"><img alt="Paper" src="images/file.svg" height=15px></a>
+        </span>
+        -->
+        <br>
+        <span class=pub-author>
+          Jialai Wang, Han Qiu, Yi Rong, <b>Hengkai Ye</b>, Qi Li, Zongpeng Li and Chao Zhang
+        </span>
+        <br>
+        In <span class=pub-conf>
+          Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'22) 
+        </span>
+      </li>
+      <div class=content>
+        Testing Convolutional neural networks (CNNs) to find defects (e.g. error-inducing inputs) before deploying them in 
+        security-sensitive scenarios is crucial. Although existing white-box testing methods can effectively test CNN models with 
+        high coverage achieved, requiring full knowledge of target CNN models which may not always be available in privacy-sensitive 
+        scenarios. In this paper, we propose a novel Black-box Efficient Testing (BET) method for CNN models. The core insight of BET 
+        is that CNNs are generally prone to be affected by continuous perturbations. Thus, by generating such continuous perturbations 
+        in a black-box manner, we design a tunable objective function to guide our testing process for thoroughly exploring defects 
+        in different decision boundaries of target CNN models. We also design an efficiency-centric policy to find more error-inducing 
+        inputs with a fixed query budget. We conduct extensive evaluations with three well-known datasets and five popular CNN 
+        structures. The results show that BET significantly outperforms existing white-box or black-box testing methods considering 
+        the effective error-inducing inputs found in a fixed query/inference budget. We further show that the error-inducing inputs 
+        found by BET can be used to fine-tune the target model to improve the accuracy by up to 3%.
+        <br/>
+        <p></p>      
+      </div>
+
+      </div>
+      <li class=collapsible>
+        <span class=pub-title>
+          Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching
+        </span>
+        <!--
+        <span class=pub-links>
+          <a href="papers/dong:browser-isolation.pdf.html"><img alt="Paper" src="images/file.svg" height=15px></a>
+        </span>
+        -->
+        <br>
+        <span class=pub-author>
+          Deqing Zou, Yawei Zhu, Shouhuai Xu, Zhen Li, Hai Jin and <b>Hengkai Ye</b>
+        </span>
+        <br>
+        In <span class=pub-conf>
+          ACM Transactions on Software Engineering and Methodology (TOSEM), 2021
+        </span>
+      </li>
+      <div class=content>
+Detecting software vulnerabilities is an important problem and a recent development in tackling the problem
+is the use of deep learning models to detect software vulnerabilities. While effective, it is hard to explain
+why a deep learning model predicts a piece of code as vulnerable or not because of the black-box nature of
+deep learning models. Indeed, the interpretability of deep learning models is a daunting open problem. In
+this article, we make a significant step toward tackling the interpretability of deep learning model in vulnerability detection. 
+Specifically, we introduce a high-fidelity explanation framework, which aims to identify
+a small number of tokens that make significant contributions to a detector's prediction with respect to an
+example. Systematic experiments show that the framework indeed has a higher fidelity than existing methods, 
+especially when features are not independent of each other (which often occurs in the real world). In
+particular, the framework can produce some vulnerability rules that can be understood by domain experts
+for accepting a detector's outputs (i.e., true positives) or rejecting a detector's outputs (i.e., false-positives and
+false-negatives). We also discuss limitations of the present study, which indicate interesting open problems
+for future research.
+        <br/>
+        <p></p>
+      </div>
+
+    </ol>
+    <hr>
+
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Teaching Assistant</strong><br>
+        IST 454 Computer and Cyber Forensics
+        <span style="float:right;">[Fall 2022, Fall 2023]</span><br>
+      </li>
+      <li><strong>External Reviewer</strong><br>
+        ACM Conference on Computer and Communications Security (CCS)
+        <span style="float:right;">[2022]</span><br>
+        Network and Distributed System Security Symposium (NDSS)
+        <span style="float:right;">[2023, 2024]</span><br>
+      </li>
+    </ul>
+    <hr>
+
+    <h2>Honors and Awards</h2>
+    <ul>
+      <li>Student Travel Grant, the 32th USENIX Security
+        <span style="float:right;">[2023]</span><br>
+      
+      </li>
+    </ul>
+    <hr>
+
+    <h2>Personal</h2>
+    <ul>
+      <li>I like playing and watching basketball games (especially Win or Go Home games). I am a huge fan of Golden State Warriors.<br>
+      
+      </li>
+    </ul>
+    <hr>
+
+  <script>
+    function collapse_it(c, i) {
+      console.log(coll);
+      console.log(i)
+      c[i].classList.toggle("active");
+      var content = c[i].nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+
+      var j;
+      for (j = 0; j < c.length; j++) {
+        if (j == i) continue;
+        var other_content = c[j].nextElementSibling;
+        if (other_content.style.display === "block") {
+          c[j].classList.toggle("active")
+          other_content.style.display = "none";
+        }
+      } 
+    }
+
+    var coll = document.getElementsByClassName("collapsible");
+    var index;
+
+    for (index = 0; index < coll.length; index++) {
+      coll[index].addEventListener("click", collapse_it.bind(null, coll, index));
+    }
+  </script>
+
+</html>
+
+
+<!--
+    <h2>Work Experience</h2>
+    <ul>
+      <li><strong>Assistant Professor</strong> [August 2020 - Present] <br>
+      College of Information Sciences and Technology, Pennsylvania State University
+      </li>
+
+      <li><strong>Research Scientist</strong> [February 2019 - August 2020] <br>
+      School of Computer Science, Georgia Institute of Technology
+      </li>
+
+      <li><strong>Postdoctoral Fellow</strong> [February 2017 - February 2019] <br>
+      School of Computer Science, Georgia Institute of Technology
+      </li>
+
+      <li><strong>Research Fellow</strong> [July 2016 - January 2017] <br>
+      National University of Singapore, Singapore
+      </li>
+
+    </ul>
+    <hr>
+
+    <h2>Professional Experience</h2>
+    <ul>
+      <li><strong>Program Committee Member</strong> <br>
+
+        ACM Conference on Computer and Communications Security (CCS)
+        <span style="float:right;">[2022]</span> <br>
+
+        Network and Distributed System Security Symposium (NDSS) 
+        <span style="float:right;">[2022]</span> <br>
+
+        ACM ASIA Conference on Computer and Communications Security (ASIACCS) 
+        <span style="float:right;">[2019, 2021, 2022]</span> <br>
+
+      </li>
+    </ul>
+    <hr>
+
+    <h2>Teaching Experience</h2>
+    <ul>
+      <li><strong>IST 454</strong> Computer and Cyber Forensics
+        <span style="float:right;">Fall 2020, Spring 2021, Fall 2021</span><br>
+      </li>
+    </ul>
+    <hr>
+
+    <br>
+    <br>
+
+  </body>
+-->
