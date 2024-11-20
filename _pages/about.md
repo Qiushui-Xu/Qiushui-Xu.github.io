@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
+I am a fourth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
 
 My research interests include **reinforcement learning**, **convex optimization** and **non-linear optimization**.
 
