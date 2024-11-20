@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Qiushui Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Penn State University. \n Email: qjx5019 at psu dot edu"
+  bio              : "Ph.D. Candidate at Penn State University."
   location         : "PA, USA"
   employer         : "Penn State University"
   uri              : # URL
-  email            : # "qjx5019 at psu dot edu" 
+  email            : "qjx5019 at psu dot edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
