@@ -45,7 +45,7 @@ Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
 ## Service
 
 - Journal Reviewer: Mathematics of Computation
-- Conference Reviewer: AAAI 2024, NeurIPS 2024
+- Conference Reviewer: AAAI 2024, NeurIPS 2024, AISTATS 2025
 
 
 ## Teaching
