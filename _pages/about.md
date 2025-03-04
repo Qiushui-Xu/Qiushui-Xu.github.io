@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. candidate at Penn State University, advised by [Prof. N
 My research interests include **reinforcement learning**, **convex optimization** and **non-linear optimization**.
 
 ## Experience
-- **Research Intern, Microsoft Research Asia.** 
+- **Research Intern, Microsoft Research.** 
   - 05/2024 - 08/2024
 
 - **Research Assistant, Penn State University.**
