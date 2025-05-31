@@ -9,9 +9,15 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
 
-My research interests include **reinforcement learning**, **convex optimization** and **non-linear optimization**.
+My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-linear optimization**.
 
+## News
+- I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
+  
 ## Experience
+- **AI Resident, X, The Moonshot Factory (Formerly Google X Lab).** 
+  - 05/2025 - Now
+  
 - **Research Intern, Microsoft Research.** 
   - 05/2024 - 08/2024
 
@@ -22,6 +28,10 @@ My research interests include **reinforcement learning**, **convex optimization*
   - 02/2021 - 05/2021
 
 ## Selected Publications
+### 2025:
+- [**Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning**](https://arxiv.org/pdf/2409.06985)  
+**Qiushui Xu**, Wenhao Zhao, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
+- ICML 2025
 
 ### 2024:
 
@@ -29,9 +39,9 @@ My research interests include **reinforcement learning**, **convex optimization*
 **Qiushui Xu**, Xuan Zhang, Necdet Serhat Aybat, Mert Gürbüzbalaban
   - ArXiv preprint.
 
-- [**Enhancing Cross-domain Pre-Trained Decision Transformers with Adaptive Attention**](https://arxiv.org/pdf/2409.06985)  
+<!-- - [**Enhancing Cross-domain Pre-Trained Decision Transformers with Adaptive Attention**](https://arxiv.org/pdf/2409.06985)  
 Wenhao Zhao, **Qiushui Xu**, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
-  - ArXiv preprint.
+  - ArXiv preprint. -->
 
 - [**AGDA+: Proximal Alternating Gradient Descent Ascent Method With a Nonmonotone Adaptive Step-Size Search For Nonconvex Minimax Problems**](https://arxiv.org/pdf/2406.14371)  
 Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
@@ -50,6 +60,8 @@ Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
 
 ## Teaching
 
+- Deterministic Models in Operations Research
+  - Teaching Assistant, The Pennsylvania State University, 2025 Spring
 - Deterministic Models in Operations Research
   - Teaching Assistant, The Pennsylvania State University, 2024 Fall
 - Manufacturing Systems Design and Analysis
