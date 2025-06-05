@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a incoming fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
+I am an incoming fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
 
 My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-linear optimization**.
 
@@ -28,16 +28,13 @@ My research interests include **large language models**, **reinforcement learnin
 
 ## Selected Publications 
 
-### 2025:
 - [**Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning**](https://arxiv.org/pdf/2409.06985)  
 **Qiushui Xu**\*, Wenhao Zhao\*, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
-- Accepted by **ICML**
-
-### 2024:
+  - Accepted by **ICML** 2025.
 
 - [**A stochastic gda method with backtracking for solving nonconvex (strongly) concave minimax problems**](https://arxiv.org/pdf/2403.07806)  
 **Qiushui Xu**, Xuan Zhang, Necdet Serhat Aybat, Mert Gürbüzbalaban
-  - ArXiv preprint.
+  - ArXiv preprint, 2024.
 
 <!-- - [**Enhancing Cross-domain Pre-Trained Decision Transformers with Adaptive Attention**](https://arxiv.org/pdf/2409.06985)  
 Wenhao Zhao, **Qiushui Xu**, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
@@ -45,7 +42,7 @@ Wenhao Zhao, **Qiushui Xu**, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jian
 
 - [**AGDA+: Proximal Alternating Gradient Descent Ascent Method With a Nonmonotone Adaptive Step-Size Search For Nonconvex Minimax Problems**](https://arxiv.org/pdf/2406.14371)  
 Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
-  - Arxiv preprint.
+  - Arxiv preprint, 2024.
   
 (\* indicates equal contribution)
 
