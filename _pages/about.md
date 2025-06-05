@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
+I am a incoming fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
 
 My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-linear optimization**.
 
 ## News
-- I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
-  
+- [May 2025] I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
+- [May 2025] Our paper *Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning* is accepted by **ICML** 2025.
+- [May 2024] I joined Microsoft Research as a Research Intern, working on in-context learning and offline reinforcement learning.
+
 ## Experience
 - **AI Resident, X, The Moonshot Factory (Formerly Google X Lab).** 
   - 05/2025 - Now
@@ -24,14 +26,12 @@ My research interests include **large language models**, **reinforcement learnin
 - **Research Assistant, Penn State University.**
   - 08/2021 - Now
 
-- **Research Intern, Baidu.**
-  - 02/2021 - 05/2021
+## Selected Publications 
 
-## Selected Publications
 ### 2025:
 - [**Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning**](https://arxiv.org/pdf/2409.06985)  
-**Qiushui Xu**, Wenhao Zhao, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
-- ICML 2025
+**Qiushui Xu**\*, Wenhao Zhao\*, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
+- Accepted by **ICML**
 
 ### 2024:
 
@@ -46,7 +46,8 @@ Wenhao Zhao, **Qiushui Xu**, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jian
 - [**AGDA+: Proximal Alternating Gradient Descent Ascent Method With a Nonmonotone Adaptive Step-Size Search For Nonconvex Minimax Problems**](https://arxiv.org/pdf/2406.14371)  
 Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
   - Arxiv preprint.
-
+  
+(\* indicates equal contribution)
 
 ## Invited Talks<a id="talks"></a>
 
