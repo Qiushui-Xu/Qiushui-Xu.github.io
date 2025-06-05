@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. I also have wonderful exchange experiences at UC-Berkeley and University of Wisconsin–Madison. 
+I am an incoming fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. Previously, I was a research intern at Machine Learning group, Microsoft Research, advised by [Dr. Lei Song](https://www.microsoft.com/en-us/research/people/lesong/).
 
-My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-linear optimization**.
+My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-convex optimization**.
 
 ## News
 - [May 2025] I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
