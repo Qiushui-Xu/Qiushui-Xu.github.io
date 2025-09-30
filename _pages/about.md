@@ -28,6 +28,10 @@ My research interests include **large language models**, **reinforcement learnin
 
 ## Selected Publications 
 
+- [**In-Context Compositional Q-Learning for Offline Reinforcement Learning**](https://arxiv.org/abs/2509.24067)  
+**Qiushui Xu**, Yuhao Huang, Yushu Jiang, Lei Song, Jinyu Wang, Wenliang Zheng, Jiang Bian
+  - Arxiv preprint, 2025.
+
 - [**Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning**](https://arxiv.org/pdf/2409.06985)  
 **Qiushui Xu**\*, Wenhao Zhao\*, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
   - Accepted by **ICML** 2025.
@@ -35,10 +39,6 @@ My research interests include **large language models**, **reinforcement learnin
 - [**A stochastic gda method with backtracking for solving nonconvex (strongly) concave minimax problems**](https://arxiv.org/pdf/2403.07806)  
 **Qiushui Xu**, Xuan Zhang, Necdet Serhat Aybat, Mert Gürbüzbalaban
   - ArXiv preprint, 2024.
-
-<!-- - [**Enhancing Cross-domain Pre-Trained Decision Transformers with Adaptive Attention**](https://arxiv.org/pdf/2409.06985)  
-Wenhao Zhao, **Qiushui Xu**, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
-  - ArXiv preprint. -->
 
 - [**AGDA+: Proximal Alternating Gradient Descent Ascent Method With a Nonmonotone Adaptive Step-Size Search For Nonconvex Minimax Problems**](https://arxiv.org/pdf/2406.14371)  
 Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
@@ -53,7 +53,7 @@ Xuan Zhang\*, **Qiushui Xu**\*, Necdet Serhat Aybat
 ## Service
 
 - Journal Reviewer: Mathematics of Computation
-- Conference Reviewer: AAAI 2024, NeurIPS 2024, AISTATS 2025
+- Conference Reviewer: AAAI 2024/2025, NeurIPS 2024, AISTATS 2025
 
 
 ## Teaching
