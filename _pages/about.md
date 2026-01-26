@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. candidate at Penn State University, advised by [Prof. Ne
 My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-convex optimization**.
 
 ## News
+- [January 2026] Our paper *In-Context Compositional Q-Learning for Offline Reinforcement Learning* is accepted by **ICLR** 2026.
 - [May 2025] I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
 - [May 2025] Our paper *Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning* is accepted by **ICML** 2025.
 - [May 2024] I joined Microsoft Research as a Research Intern, working on in-context learning and offline reinforcement learning.
@@ -24,14 +25,18 @@ My research interests include **large language models**, **reinforcement learnin
   - 05/2024 - 08/2024
 
 - **Research Assistant, Penn State University.**
-  - 08/2021 - Now
+  - 08/2021 - 05/2024
 
 ## Selected Publications 
 
 - [**In-Context Compositional Q-Learning for Offline Reinforcement Learning**](https://arxiv.org/abs/2509.24067)  
 **Qiushui Xu**, Yuhao Huang, Yushu Jiang, Lei Song, Jinyu Wang, Wenliang Zheng, Jiang Bian
-  - Arxiv preprint, 2025.
+  - Accepted by **ICLR**, 2026.
 
+- [**An Accelerated Primal Dual Algorithm with Backtracking for Decentralized Constrained Optimization**](https://arxiv.org/pdf/2512.07085)  
+**Qiushui Xu**, Necdet Serhat Aybat, Mert Gürbüzbalaban
+  - ArXiv preprint, 2025.
+  
 - [**Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning**](https://arxiv.org/pdf/2409.06985)  
 **Qiushui Xu**\*, Wenhao Zhao\*, Linjie Xu, Lei Song, Jinyu Wang, Chunlai Zhou, Jiang Bian
   - Accepted by **ICML** 2025.
