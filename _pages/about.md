@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. Currently, I am an Applied Science Intern at Amazon, working on a Ph.D. self-evolving LLMs. Previously, I was an AI resident at X, The Moonshot Factory (Formerly Google X Lab) and a research intern at Machine Learning group, Microsoft Research, advised by [Dr. Lei Song](https://www.microsoft.com/en-us/research/people/lesong/).
+I am a final-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. Currently, I am an Applied Science Intern at Amazon, working on self-evolving LLMs. Previously, I was an AI resident at X, The Moonshot Factory (Formerly Google X Lab) and a research intern at Machine Learning group, Microsoft Research, advised by [Dr. Lei Song](https://www.microsoft.com/en-us/research/people/lesong/).
 
 My research interests include **large language models**, **reinforcement learning**, **LLM4Rec** and **non-convex optimization**.
 
