@@ -7,17 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. Currently, I am a Ph.D. resident at X, The Moonshot Factory (Formerly Google X Lab), working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs. Previously, I was a research intern at Machine Learning group, Microsoft Research, advised by [Dr. Lei Song](https://www.microsoft.com/en-us/research/people/lesong/).
+I am a final-year Ph.D. candidate at Penn State University, advised by [Prof. Necdet Serhat Aybat](https://nsaybat.org/). Before joining Penn State University, I obtained my Bachelor's degree in Mathematics from Lanzhou University. Currently, I am an Applied Science Intern at Amazon, working on a Ph.D. self-evolving LLMs. Previously, I was an AI resident at X, The Moonshot Factory (Formerly Google X Lab) and a research intern at Machine Learning group, Microsoft Research, advised by [Dr. Lei Song](https://www.microsoft.com/en-us/research/people/lesong/).
 
-My research interests include **large language models**, **reinforcement learning**, **convex optimization** and **non-convex optimization**.
+My research interests include **large language models**, **reinforcement learning**, **LLM4Rec** and **non-convex optimization**.
 
 ## News
+
+- [June 2026] I joined Amazon as an Applied Science Intern, working on self-improving LLMs and knowledge distillation.
 - [January 2026] Our paper *In-Context Compositional Q-Learning for Offline Reinforcement Learning* is accepted by **ICLR** 2026.
 - [May 2025] I joined X, The Moonshot Factory (Formerly Google X Lab) as an AI Resident in May 2025, working on [Tapestry](https://x.company/projects/tapestry/) project utilizing the power of LLMs and RL.
 - [May 2025] Our paper *Unveiling Markov heads in Pretrained Language Models for Offline Reinforcement Learning* is accepted by **ICML** 2025.
 - [May 2024] I joined Microsoft Research as a Research Intern, working on in-context learning and offline reinforcement learning.
 
 ## Experience
+
+- **Applied Science Intern, Amazon.** 
+  - 06/2026 - 09/2026
+  
 - **AI Resident, X, The Moonshot Factory (Formerly Google X Lab).** 
   - 05/2025 - 05/2026
   
