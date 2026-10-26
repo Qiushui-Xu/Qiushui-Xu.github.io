@@ -35,7 +35,7 @@ My research interests include **large language models**, **reinforcement learnin
 
 ## Selected Publications 
 
-- [**In-Context Compositional Q-Learning for Offline Reinforcement Learning**](https://openreview.net/pdf?id=ZBbKLvH0w4)  
+- [**In-Context Compositional Q-Learning for Offline Reinforcement Learning**](https://proceedings.iclr.cc/paper_files/paper/2026/file/40b9dbda250d23f125eba074ae4ed46a-Paper-Conference.pdf)  
 **Qiushui Xu**, Yuhao Huang, Yushu Jiang, Lei Song, Jinyu Wang, Wenliang Zheng, Jiang Bian
   - Accepted by **ICLR**, 2026.
 
